@@ -80,6 +80,7 @@ nb-configuration.xml
 settings.json
 .code-workspace
 lib/
+ALL_OF_MY_PASSWORDS.txt
 
 ##############################
 ## OS X
